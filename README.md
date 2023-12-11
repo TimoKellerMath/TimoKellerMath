@@ -1,6 +1,7 @@
 I'm Timo Keller. I'm interested in (computational) arithmetic geometry.
 
 Here is code for some articles I'm involved in on GitHub:
+* https://github.com/TimoKellerMath/strongBSDgenus2 (Complete verification of strong BSD for many modular abelian surfaces over Q)
 * https://github.com/davidlowryduda/isolated_points (Towards a Classification of Isolated j-invariants)
 * https://github.com/TimoKellerMath/QuadraticPoints (Computing quadratic points on modular curves X_0(N))
 * https://github.com/shiva-chid/Hyperelliptic_X0Nstarquotients (quadratic Chabauty for hyperelliptic X_0(N)^*)
