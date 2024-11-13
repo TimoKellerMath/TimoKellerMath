@@ -15,7 +15,7 @@ Here is code for some articles I'm involved in on GitHub:
 
 **Inverse Galois theory for 17T7**
 
-* https://github.com/SamSchiavone/17T7 and https://github.com/edgarcosta/EichlerShimuraHMF (17T7 is a Galois group over the rationals on arXiv soon, joint with Raymond van Bommel, Edgar Costa, Noam D. Elkies, Sam Schiavone, and John Voight)
+* https://github.com/SamSchiavone/17T7 and https://github.com/edgarcosta/EichlerShimuraHMF (17T7 is a Galois group over the rationals https://arxiv.org/abs/2411.07857, joint with Raymond van Bommel, Edgar Costa, Noam D. Elkies, Sam Schiavone, and John Voight)
 
 **Work in progress** (MIT workshops https://math.mit.edu/~edgarc/MCW.html, https://math.mit.edu/~edgarc/MCW2.html and https://math.mit.edu/~edgarc/MCW3.html on the LMFDB https://www.lmfdb.org):
 * https://github.com/AndrewVSutherland/ModularCurves
