@@ -8,6 +8,7 @@ Here is code for some articles I'm involved in on GitHub:
 
 **Rational points on modular curves**
 
+* https://github.com/sachihashimoto/X0Nstarquotients (Rational points on $X_0(N)^*$ when $N$ is non-squarefree, joint with Sachi Hashimoto and Samuel Le Fourn)
 * https://github.com/davidlowryduda/isolated_points (Towards a Classification of Isolated _j_-invariants https://arxiv.org/abs/2311.07740)
 * https://github.com/TimoKellerMath/QuadraticPoints (Computing quadratic points on modular curves X_0(N) https://arxiv.org/abs/2303.12566)
 * https://github.com/shiva-chid/Hyperelliptic_X0Nstarquotients (quadratic Chabauty for hyperelliptic X_0(N)^* https://arxiv.org/abs/2203.05541)
