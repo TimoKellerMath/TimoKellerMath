@@ -20,3 +20,6 @@ Here is code for some articles I'm involved in on GitHub:
 
 **Work in progress** (MIT workshops https://math.mit.edu/~edgarc/MCW.html, https://math.mit.edu/~edgarc/MCW2.html and https://math.mit.edu/~edgarc/MCW3.html on the LMFDB https://www.lmfdb.org):
 * https://github.com/AndrewVSutherland/ModularCurves
+
+**Self-initializing/multiple polynomial quadratic sieve (SIQS/MPQS)** in Rust:
+* https://github.com/TimoKellerMath/quadratic-sieve
