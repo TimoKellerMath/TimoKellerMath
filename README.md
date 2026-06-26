@@ -8,6 +8,7 @@ Here is code for some articles I'm involved in on GitHub:
 
 **Rational points on modular curves**
 
+* https://github.com/nt-lib/local-heights-X0Nstar (with Nikola Adžaga and Maarten Derickx)
 * https://github.com/sachihashimoto/X0Nstarquotients (Rational points on $X_0(N)^*$ when $N$ is non-squarefree https://arxiv.org/abs/2505.00680 with Sachi Hashimoto and Samuel Le Fourn)
 * https://github.com/davidlowryduda/isolated_points (Towards a Classification of Isolated $j$-invariants https://arxiv.org/abs/2311.07740 with Abbey Bourdon, Sachi Hashimoto, Zev Klagsbrun, David Lowry-Duda, Travis Morrison, Filip Najman, and Himanshu Shukla)
 * https://github.com/TimoKellerMath/QuadraticPoints (Computing quadratic points on modular curves $X_0(N)$ https://arxiv.org/abs/2303.12566 with Nikola Adžaga, Philippe Michaud-Jacobs, Filip Najman, Ekin Ozman, and Borna Vukorepa)
@@ -17,6 +18,10 @@ Here is code for some articles I'm involved in on GitHub:
 **Inverse Galois theory for 17T7**
 
 * https://github.com/SamSchiavone/17T7 and https://github.com/edgarcosta/EichlerShimuraHMF (17T7 is a Galois group over the rationals https://arxiv.org/abs/2411.07857, with Raymond van Bommel, Edgar Costa, Noam D. Elkies, Sam Schiavone, and John Voight)
+
+**Abelian varieties over finite fields and their zeta function**
+
+* https://github.com/TimoKellerMath/PointCountsAbelianVarieties (with Shiva Chidambaram)
 
 **Work in progress** (MIT workshops https://math.mit.edu/~edgarc/MCW.html, https://math.mit.edu/~edgarc/MCW2.html and https://math.mit.edu/~edgarc/MCW3.html on the LMFDB https://www.lmfdb.org):
 * https://github.com/AndrewVSutherland/ModularCurves
