@@ -21,7 +21,7 @@ Here is code for some articles I'm involved in on GitHub:
 
 **Abelian varieties over finite fields and their zeta function**
 
-* https://github.com/TimoKellerMath/PointCountsAbelianVarieties (with Shiva Chidambaram)
+* https://github.com/TimoKellerMath/PointCountsAbelianVarieties (Point counts of abelian varieties over finite fields determining their zeta function, with Shiva Chidambaram)
 
 **Work in progress** (MIT workshops https://math.mit.edu/~edgarc/MCW.html, https://math.mit.edu/~edgarc/MCW2.html and https://math.mit.edu/~edgarc/MCW3.html on the LMFDB https://www.lmfdb.org):
 * https://github.com/AndrewVSutherland/ModularCurves
