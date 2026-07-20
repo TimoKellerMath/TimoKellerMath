@@ -28,3 +28,6 @@ Here is code for some articles I'm involved in on GitHub:
 
 **Self-initializing/multiple polynomial quadratic sieve (SIQS/MPQS)** in Rust:
 * https://github.com/TimoKellerMath/quadratic-sieve
+
+**Chorale harmonization in the style of Johann Sebastian Bach**
+* https://github.com/TimoKellerMath/ChoraleHarmonizer
