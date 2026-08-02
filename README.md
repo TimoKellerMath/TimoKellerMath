@@ -1,4 +1,4 @@
-I'm Timo Keller. I'm interested in (computational) arithmetic geometry.
+I'm interested in (computational) arithmetic geometry.
 
 Here is code for some articles I'm involved in on GitHub:
 
