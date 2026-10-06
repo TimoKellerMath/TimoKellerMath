@@ -23,6 +23,10 @@ Here is code for some articles I'm involved in on GitHub:
 
 * https://github.com/TimoKellerMath/PointCountsAbelianVarieties (Point counts of abelian varieties over finite fields determining their zeta function https://arxiv.org/abs/2606.28989, with Shiva Chidambaram)
 
+**Étale fundamental groups of arithmetic surfaces**
+
+* https://github.com/TimoKellerMath/GolodShafarevichFormalization (Golod–Shafarevich for arithmetic surfaces https://arxiv.org/abs/2610.06461, with Carlo Pagano)
+
 **Work in progress** (MIT workshops https://math.mit.edu/~edgarc/MCW.html, https://math.mit.edu/~edgarc/MCW2.html and https://math.mit.edu/~edgarc/MCW3.html on the LMFDB https://www.lmfdb.org):
 * https://github.com/AndrewVSutherland/ModularCurves
 
