@@ -8,7 +8,7 @@ Here is code for some articles I'm involved in on GitHub:
 
 **Rational points on modular curves**
 
-* https://github.com/TimoKellerMath/ColemanIntegralsLocalFields (Coleman integrals over local fields, Chabauty solver over number fields, with Yulin Cai)
+* https://github.com/TimoKellerMath/ColemanIntegralsLocalFields (Explicit Coleman integration for curves over finite extensions of Q_p, Chabauty solver over number fields, with Yulin Cai)
 * https://github.com/nt-lib/local-heights-X0Nstar (Semi-stable models, local heights and quadratic Chabauty for $X_0(N)^∗$ https://arxiv.org/pdf/2609.40207 with Nikola Adžaga and Maarten Derickx)
 * https://github.com/sachihashimoto/X0Nstarquotients (Rational points on $X_0(N)^*$ when $N$ is non-squarefree https://arxiv.org/abs/2505.00680 with Sachi Hashimoto and Samuel Le Fourn)
 * https://github.com/davidlowryduda/isolated_points (Towards a Classification of Isolated $j$-invariants https://arxiv.org/abs/2311.07740 with Abbey Bourdon, Sachi Hashimoto, Zev Klagsbrun, David Lowry-Duda, Travis Morrison, Filip Najman, and Himanshu Shukla)
